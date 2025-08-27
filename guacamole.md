@@ -5,6 +5,7 @@
 * salt
 ## Instructions
 Mix everything together
+peel the avocado
 
 ## Prices
 
