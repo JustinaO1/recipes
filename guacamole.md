@@ -7,4 +7,4 @@
 
 ## Prices
 
-See 'groceries.md' for indicative prices
+See `groceries.md` for indicative prices
