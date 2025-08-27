@@ -4,9 +4,9 @@
 * lime
 * salt
 ## Instructions
-peel the avocado
-add lime
-ad  salt
+Peel the avocado
+Add lime
+Add salt
 Mix everything together
 
 ## Prices
